@@ -1,1 +1,2 @@
-# Waller010
+# Probot ✨
+Epic Discord Bot
